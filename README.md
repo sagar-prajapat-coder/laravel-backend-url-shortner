@@ -73,3 +73,8 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## License
 
 This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+# Super admin login details
+Eamil:superadmin@example.com
+Password:password
